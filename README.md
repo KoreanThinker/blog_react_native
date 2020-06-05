@@ -1,2 +1,1 @@
-# blog_react_native
-블로그에 올라간 react-native source
+# [블로그로 가기](https://github.com/KoreanThinker/blog_react_native.git)
